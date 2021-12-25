@@ -1,0 +1,27 @@
+.button__avi {
+  background-color: #00aff0;
+  color: #fefefe;
+  border: none;
+  font-size: 14px;
+  text-align: center;
+  padding: 9px 18px;
+  border-radius: 30px;
+  font-weight: bold;
+  width: 50%;
+  margin-left: 10px;
+  margin-right: 10px;
+  max-width: 244px;
+  min-height: 48px;
+}
+.button__avi:hover {
+  border: 2px solid #376170;
+}
+.group__button {
+  margin-top: 20px;
+}
+ul {
+  padding: 0;
+}
+ul li {
+  list-style: none;
+}
